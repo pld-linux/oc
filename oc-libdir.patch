@@ -1,0 +1,11 @@
+--- oc-2.0/oc-config.in.orig	2012-07-05 22:59:14.000000000 +0200
++++ oc-2.0/oc-config.in	2014-03-15 16:23:11.936633008 +0100
+@@ -4,7 +4,7 @@
+ #
+ prefix="@prefix@"
+ exec_prefix=${prefix}
+-libdir=${exec_prefix}/lib
++libdir="@libdir@"
+ includedir=${prefix}/include
+ package_version="@PACKAGE_VERSION@"
+ cc="@CC@"
