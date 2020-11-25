@@ -6,7 +6,7 @@ Summary:	The OPeNDAP C DAP2 library (client-side only)
 Summary(pl.UTF-8):	Biblioteka OPeNDAP DAP2 dla C (tylko strona kliencka)
 Name:		oc
 Version:	2.0
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	http://www.opendap.org/pub/OC/source/%{name}-%{version}.tar.gz
